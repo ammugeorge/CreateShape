@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="CreateCircleSquareRandom/CreateCircleSquareRandom.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4d001c18d04030eb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateCircleSquareRandom/Webservices/ImgColorWebService.cs">
+    <Files>
+      <File FileName="CreateCircleSquareRandom/View/SquarePage.cs" Line="149" Column="4" />
+      <File FileName="CreateCircleSquareRandom/Gestures/GestureListener.cs" Line="64" Column="3" />
+      <File FileName="CreateCircleSquareRandom/Webservices/ImgColorWebService.cs" Line="68" Column="3" />
+      <File FileName="CreateCircleSquareRandom/ViewModel/MainViewModel.cs" Line="53" Column="32" />
+      <File FileName="CreateCircleSquareRandom/Model/BaseShape.cs" Line="1" Column="1" />
+      <File FileName="CreateCircleSquareRandom/View/CirclePage.cs" Line="89" Column="24" />
+      <File FileName="CreateCircleSquareRandom/Model/Square.cs" Line="1" Column="1" />
+      <File FileName="CreateCircleSquareRandom/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="CreateCircleSquareRandom/Factories/CreateShapeFactory.cs" Line="64" Column="49" />
+      <File FileName="CreateCircleSquareRandom/Service/ProcessImgService.cs" Line="119" Column="43" />
+      <File FileName="CreateCircleSquareRandom/ViewModel/ShapeViewModel.cs" Line="33" Column="3" />
+      <File FileName="CreateCircleSquareRandom/Model/Circle.cs" Line="1" Column="1" />
+      <File FileName="CreateCircleSquareRandom/MainActivity.cs" Line="43" Column="28" />
+      <File FileName="CreateCircleSquareRandom/Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CreateCircleSquareRandom AndroidDeviceId-Debug="4d001c18d04030eb" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

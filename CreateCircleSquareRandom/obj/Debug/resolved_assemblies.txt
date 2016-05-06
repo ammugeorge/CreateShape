@@ -1,0 +1,10 @@
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/CreateCircleSquareRandom.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.Xml.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/Mono.Android.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.Xml.Linq.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.Core.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/mscorlib.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/ammu/Projects/CreateCircleSquareRandom/CreateCircleSquareRandom/obj/Debug/assemblies/System.ServiceModel.Internals.dll
