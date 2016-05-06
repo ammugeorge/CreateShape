@@ -21,28 +21,28 @@ namespace CreateCircleSquareRandom
 			Shape = shape;
 		}
 
-		/// <summary>
-		/// Raises the double tap event.
-		/// </summary>
-		/// <param name="e">E.</param>
-		public override bool OnDoubleTap (MotionEvent e)
-		{
-			if (DoubleTap != null)
-				DoubleTap ();
+//		/// <summary>
+//		/// Raises the double tap event.
+//		/// </summary>
+//		/// <param name="e">E.</param>
+//		public override bool OnDoubleTap (MotionEvent e)
+//		{
+//			if (DoubleTap != null)
+//				DoubleTap ();
+////			RequestLayout (
+////				Shape.X_Val - Shape.Radius,
+////				Shape.Y_Val - Shape.Radius,
+////				Shape.X_Val + Shape.Radius,
+////				Shape.Y_Val + Shape.Radius
+////			);
 //			RequestLayout (
-//				Shape.X_Val - Shape.Radius,
-//				Shape.Y_Val - Shape.Radius,
-//				Shape.X_Val + Shape.Radius,
-//				Shape.Y_Val + Shape.Radius
+//				Shape.X_Val ,
+//				Shape.Y_Val ,
+//				Shape.X_Val ,
+//				Shape.Y_Val 
 //			);
-			RequestLayout (
-				Shape.X_Val ,
-				Shape.Y_Val ,
-				Shape.X_Val ,
-				Shape.Y_Val 
-			);
-			return true;
-		}
+//			return true;
+//		}
 
 		/// <summary>
 		/// Handles the drag event.

@@ -142,7 +142,7 @@ namespace CreateCircleSquareRandom
 			doubleTapDetector.OnTouchEvent (motion);
 			gestureListener.HandleMotionEvent (motion);
 			}
-			catch (Exception ex){
+			catch (Exception ){
 				
 				return true;
 			}
